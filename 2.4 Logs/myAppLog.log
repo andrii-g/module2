@@ -1,56 +1,112 @@
-2017-11-13 17:01:21,199 INFO [main] Person [Person.java:32] Statistics started: 
-2017-11-13 17:01:21,207 INFO [main] Person [Person.java:37] Person Joe has 0 children
-2017-11-13 17:01:21,207 DEBUG [main] Person [Person.java:52] Hobbies statistic:
-2017-11-13 17:01:21,207 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
-2017-11-13 17:01:21,207 DEBUG [main] Person [Person.java:58] Children amount statistic:
-2017-11-13 17:01:21,208 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
-2017-11-13 17:01:21,208 INFO [main] Person [Person.java:64] Statistics finished
+2017-11-14 12:19:39,032 INFO [main] Person [Person.java:32] Statistics started: 
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:37] Person Joe has 0 children
+2017-11-14 12:19:39,033 DEBUG [main] Person [Person.java:52] Hobbies statistic:
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
+2017-11-14 12:19:39,033 DEBUG [main] Person [Person.java:58] Children amount statistic:
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:64] Statistics finished
 
-2017-11-13 17:01:21,208 INFO [main] Person [Person.java:32] Statistics started: 
-2017-11-13 17:01:21,209 INFO [main] Person [Person.java:37] Person Mike has 1 children
-2017-11-13 17:01:21,209 DEBUG [main] Person [Person.java:52] Hobbies statistic:
-2017-11-13 17:01:21,209 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
-2017-11-13 17:01:21,210 INFO [main] Person [Person.java:55] 1 person(s) have trips as a hobby
-2017-11-13 17:01:21,210 DEBUG [main] Person [Person.java:58] Children amount statistic:
-2017-11-13 17:01:21,210 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
-2017-11-13 17:01:21,210 INFO [main] Person [Person.java:61] 1 person(s) have 1 children
-2017-11-13 17:01:21,210 INFO [main] Person [Person.java:64] Statistics finished
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:32] Statistics started: 
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:37] Person Mike has 1 children
+2017-11-14 12:19:39,033 DEBUG [main] Person [Person.java:52] Hobbies statistic:
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:55] 1 person(s) have trips as a hobby
+2017-11-14 12:19:39,033 DEBUG [main] Person [Person.java:58] Children amount statistic:
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:61] 1 person(s) have 1 children
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:64] Statistics finished
 
-2017-11-13 17:01:21,211 INFO [main] Person [Person.java:32] Statistics started: 
-2017-11-13 17:01:21,211 INFO [main] Person [Person.java:37] Person Kyle has 2 children
-2017-11-13 17:01:21,211 DEBUG [main] Person [Person.java:52] Hobbies statistic:
-2017-11-13 17:01:21,211 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
-2017-11-13 17:01:21,211 INFO [main] Person [Person.java:55] 1 person(s) have trips as a hobby
-2017-11-13 17:01:21,211 INFO [main] Person [Person.java:55] 1 person(s) have football as a hobby
-2017-11-13 17:01:21,212 DEBUG [main] Person [Person.java:58] Children amount statistic:
-2017-11-13 17:01:21,212 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
-2017-11-13 17:01:21,212 INFO [main] Person [Person.java:61] 1 person(s) have 1 children
-2017-11-13 17:01:21,212 INFO [main] Person [Person.java:61] 1 person(s) have 2 children
-2017-11-13 17:01:21,212 INFO [main] Person [Person.java:64] Statistics finished
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:32] Statistics started: 
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:37] Person Kyle has 2 children
+2017-11-14 12:19:39,033 DEBUG [main] Person [Person.java:52] Hobbies statistic:
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:55] 1 person(s) have trips as a hobby
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:55] 1 person(s) have football as a hobby
+2017-11-14 12:19:39,033 DEBUG [main] Person [Person.java:58] Children amount statistic:
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:61] 1 person(s) have 1 children
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:61] 1 person(s) have 2 children
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:64] Statistics finished
 
-2017-11-13 17:01:21,213 INFO [main] Person [Person.java:32] Statistics started: 
-2017-11-13 17:01:21,213 WARN [main] Person [Person.java:35] Person Raheem has -2 children
-2017-11-13 17:01:21,213 DEBUG [main] Person [Person.java:52] Hobbies statistic:
-2017-11-13 17:01:21,213 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
-2017-11-13 17:01:21,213 INFO [main] Person [Person.java:55] 1 person(s) have trips as a hobby
-2017-11-13 17:01:21,214 INFO [main] Person [Person.java:55] 2 person(s) have football as a hobby
-2017-11-13 17:01:21,214 DEBUG [main] Person [Person.java:58] Children amount statistic:
-2017-11-13 17:01:21,214 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
-2017-11-13 17:01:21,214 INFO [main] Person [Person.java:61] 1 person(s) have 1 children
-2017-11-13 17:01:21,215 INFO [main] Person [Person.java:61] 1 person(s) have -2 children
-2017-11-13 17:01:21,215 INFO [main] Person [Person.java:61] 1 person(s) have 2 children
-2017-11-13 17:01:21,215 INFO [main] Person [Person.java:64] Statistics finished
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:32] Statistics started: 
+2017-11-14 12:19:39,033 WARN [main] Person [Person.java:35] Person Raheem has -2 children
+2017-11-14 12:19:39,033 DEBUG [main] Person [Person.java:52] Hobbies statistic:
+2017-11-14 12:19:39,033 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
+2017-11-14 12:19:39,034 INFO [main] Person [Person.java:55] 1 person(s) have trips as a hobby
+2017-11-14 12:19:39,035 INFO [main] Person [Person.java:55] 2 person(s) have football as a hobby
+2017-11-14 12:19:39,035 DEBUG [main] Person [Person.java:58] Children amount statistic:
+2017-11-14 12:19:39,035 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
+2017-11-14 12:19:39,035 INFO [main] Person [Person.java:61] 1 person(s) have 1 children
+2017-11-14 12:19:39,036 INFO [main] Person [Person.java:61] 1 person(s) have -2 children
+2017-11-14 12:19:39,036 INFO [main] Person [Person.java:61] 1 person(s) have 2 children
+2017-11-14 12:19:39,036 INFO [main] Person [Person.java:64] Statistics finished
 
-2017-11-13 17:01:21,215 INFO [main] Person [Person.java:32] Statistics started: 
-2017-11-13 17:01:21,215 INFO [main] Person [Person.java:37] Person David has 1 children
-2017-11-13 17:01:21,215 DEBUG [main] Person [Person.java:52] Hobbies statistic:
-2017-11-13 17:01:21,216 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
-2017-11-13 17:01:21,216 INFO [main] Person [Person.java:55] 1 person(s) have trips as a hobby
-2017-11-13 17:01:21,216 INFO [main] Person [Person.java:55] 3 person(s) have football as a hobby
-2017-11-13 17:01:21,216 DEBUG [main] Person [Person.java:58] Children amount statistic:
-2017-11-13 17:01:21,217 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
-2017-11-13 17:01:21,217 INFO [main] Person [Person.java:61] 2 person(s) have 1 children
-2017-11-13 17:01:21,217 INFO [main] Person [Person.java:61] 1 person(s) have -2 children
-2017-11-13 17:01:21,217 INFO [main] Person [Person.java:61] 1 person(s) have 2 children
-2017-11-13 17:01:21,218 INFO [main] Person [Person.java:64] Statistics finished
+2017-11-14 12:19:39,036 INFO [main] Person [Person.java:32] Statistics started: 
+2017-11-14 12:19:39,037 INFO [main] Person [Person.java:37] Person David has 1 children
+2017-11-14 12:19:39,037 DEBUG [main] Person [Person.java:52] Hobbies statistic:
+2017-11-14 12:19:39,037 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
+2017-11-14 12:19:39,037 INFO [main] Person [Person.java:55] 1 person(s) have trips as a hobby
+2017-11-14 12:19:39,038 INFO [main] Person [Person.java:55] 3 person(s) have football as a hobby
+2017-11-14 12:19:39,038 DEBUG [main] Person [Person.java:58] Children amount statistic:
+2017-11-14 12:19:39,038 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
+2017-11-14 12:19:39,038 INFO [main] Person [Person.java:61] 2 person(s) have 1 children
+2017-11-14 12:19:39,039 INFO [main] Person [Person.java:61] 1 person(s) have -2 children
+2017-11-14 12:19:39,039 INFO [main] Person [Person.java:61] 1 person(s) have 2 children
+2017-11-14 12:19:39,039 INFO [main] Person [Person.java:64] Statistics finished
+
+2017-11-14 12:19:45,007 INFO [main] Person [Person.java:32] Statistics started: 
+2017-11-14 12:19:45,020 INFO [main] Person [Person.java:37] Person Joe has 0 children
+2017-11-14 12:19:45,021 DEBUG [main] Person [Person.java:52] Hobbies statistic:
+2017-11-14 12:19:45,022 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
+2017-11-14 12:19:45,022 DEBUG [main] Person [Person.java:58] Children amount statistic:
+2017-11-14 12:19:45,023 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
+2017-11-14 12:19:45,023 INFO [main] Person [Person.java:64] Statistics finished
+
+2017-11-14 12:19:45,023 INFO [main] Person [Person.java:32] Statistics started: 
+2017-11-14 12:19:45,023 INFO [main] Person [Person.java:37] Person Mike has 1 children
+2017-11-14 12:19:45,024 DEBUG [main] Person [Person.java:52] Hobbies statistic:
+2017-11-14 12:19:45,024 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
+2017-11-14 12:19:45,024 INFO [main] Person [Person.java:55] 1 person(s) have trips as a hobby
+2017-11-14 12:19:45,024 DEBUG [main] Person [Person.java:58] Children amount statistic:
+2017-11-14 12:19:45,034 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
+2017-11-14 12:19:45,034 INFO [main] Person [Person.java:61] 1 person(s) have 1 children
+2017-11-14 12:19:45,034 INFO [main] Person [Person.java:64] Statistics finished
+
+2017-11-14 12:19:45,034 INFO [main] Person [Person.java:32] Statistics started: 
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:37] Person Kyle has 2 children
+2017-11-14 12:19:45,044 DEBUG [main] Person [Person.java:52] Hobbies statistic:
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:55] 1 person(s) have trips as a hobby
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:55] 1 person(s) have football as a hobby
+2017-11-14 12:19:45,044 DEBUG [main] Person [Person.java:58] Children amount statistic:
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:61] 1 person(s) have 1 children
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:61] 1 person(s) have 2 children
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:64] Statistics finished
+
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:32] Statistics started: 
+2017-11-14 12:19:45,044 WARN [main] Person [Person.java:35] Person Raheem has -2 children
+2017-11-14 12:19:45,044 DEBUG [main] Person [Person.java:52] Hobbies statistic:
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:55] 1 person(s) have trips as a hobby
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:55] 2 person(s) have football as a hobby
+2017-11-14 12:19:45,044 DEBUG [main] Person [Person.java:58] Children amount statistic:
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:61] 1 person(s) have 1 children
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:61] 1 person(s) have -2 children
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:61] 1 person(s) have 2 children
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:64] Statistics finished
+
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:32] Statistics started: 
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:37] Person David has 1 children
+2017-11-14 12:19:45,044 DEBUG [main] Person [Person.java:52] Hobbies statistic:
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:55] 1 person(s) have ski as a hobby
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:55] 1 person(s) have trips as a hobby
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:55] 3 person(s) have football as a hobby
+2017-11-14 12:19:45,044 DEBUG [main] Person [Person.java:58] Children amount statistic:
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:61] 1 person(s) have 0 children
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:61] 2 person(s) have 1 children
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:61] 1 person(s) have -2 children
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:61] 1 person(s) have 2 children
+2017-11-14 12:19:45,044 INFO [main] Person [Person.java:64] Statistics finished
 
