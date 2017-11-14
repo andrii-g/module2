@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://www.theautomatedtester.co.uk/" />
+<title>01</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">01</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/tutorials/selenium/Selenium_JavaScript.htm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=number1</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=number1</td>
+	<td>50</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=number2</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=number2</td>
+	<td>20</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=minus</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=total</td>
+	<td></td>
+</tr>
+<tr>
+	<td>storeValue</td>
+	<td>id=total</td>
+	<td>result</td>
+</tr>
+<tr>
+	<td>assertEval</td>
+	<td>javascript{(50-20)}</td>
+	<td>${result}</td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
